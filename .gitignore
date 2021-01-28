@@ -1,4 +1,6 @@
 # Miscellaneous
+*.bat
+contribute.py
 *.class
 *.log
 *.pyc
